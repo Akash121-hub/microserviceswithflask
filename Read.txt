@@ -1,0 +1,16 @@
+We are creating four microservices
+
+1. Search ( Traffic )
+2. Products List ( Cached )
+3. Products Recommendation ( ML ) --> Machine Learning
+4. Contact ( No Traffic )
+
+
+# Fronte-end built with React
+
+# Back-end built with Two apps
+1.  Main App
+2. Admin App
+
+# IMP:- Both App will communicate using RabbitMq Events(Messages)
+# IMP: In One Case main will call admin app 
